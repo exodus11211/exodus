@@ -2518,16 +2518,4 @@ $var_269e69c8e6e2ee7641671243f31c761c=25;
         }
 	}
 	}
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 Loading complete
